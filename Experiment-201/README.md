@@ -125,6 +125,7 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ---
 
 # Ouput
+![WhatsApp Image 2026-03-15 at 2 02 04 PM](https://github.com/user-attachments/assets/93826018-4844-450b-a780-04aeb6746ac4)
 
 ---
 
