@@ -170,7 +170,8 @@ got our pulse, the timer must have expired
 
 # Output
 
-<img width="1584" height="284" alt="image" src="https://github.com/user-attachments/assets/f66e363c-dbe2-4734-94d8-15512995d406" />
+![WhatsApp Image 2026-03-20 at 7 04 02 PM](https://github.com/user-attachments/assets/13b08c35-c06e-4e36-8d98-b086b240b357)
+
 
 ---
 
