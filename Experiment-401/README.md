@@ -103,6 +103,8 @@ Interrupt received! , Count is 4
 ---
 
 # Output
+<img width="410" height="469" alt="qnx exp 401 output" src="https://github.com/user-attachments/assets/6cd0fec2-43a2-4f16-953e-c2e7eb4624f4" />
+
 ---
 
 # Result
